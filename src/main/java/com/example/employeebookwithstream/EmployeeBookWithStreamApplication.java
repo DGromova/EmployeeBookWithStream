@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class EmployeeBookWithStreamApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(EmployeeBookWithStreamApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(EmployeeBookWithStreamApplication.class, args);
+    }
 
 }
